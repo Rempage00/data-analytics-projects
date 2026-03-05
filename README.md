@@ -20,4 +20,4 @@ Interactive dashboard analyzing:
 
 ## Dashboard Preview
 
-![Dashboard](powerbi/dashboard.png)
+![Dashboard](power-bi/dashboard.png)
