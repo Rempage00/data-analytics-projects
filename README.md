@@ -9,14 +9,10 @@ This repository contains practice projects focused on developing data analysis s
 ## Projects
 
 ### SQL Sales Analysis
-Example SQL analysis using joins, aggregations and CTEs to analyze customer sales performance.
+Example SQL analysis using JOINs, aggregations and CTEs to analyze customer sales performance.
 
 ### Power BI Sales Dashboard
-Interactive dashboard analyzing:
-
-- sales by country
-- profit by customer segment
-- overall sales KPI
+Interactive dashboard analyzing sales performance across countries and customer segments.
 
 ## Dashboard Preview
 
