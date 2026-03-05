@@ -21,3 +21,9 @@ Interactive dashboard analyzing:
 ## Dashboard Preview
 
 ![Dashboard](power-bi/dashboard.png)
+
+Dashboard file:
+power-bi/sales_dashboard.pbix
+
+SQL query:
+sql/sales_cte_analysis.sql
