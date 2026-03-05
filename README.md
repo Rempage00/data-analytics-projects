@@ -17,3 +17,7 @@ Interactive dashboard analyzing:
 - sales by country
 - profit by customer segment
 - overall sales KPI
+
+## Dashboard Preview
+
+![Dashboard](powerbi/dashboard.png)
